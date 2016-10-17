@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMConverter", "TMConverter\TMConverter.csproj", "{4014C649-FFA5-4193-BDAA-963EE33E4F22}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4014C649-FFA5-4193-BDAA-963EE33E4F22}.Debug.ActiveCfg = Debug|.NET
+		{4014C649-FFA5-4193-BDAA-963EE33E4F22}.Debug.Build.0 = Debug|.NET
+		{4014C649-FFA5-4193-BDAA-963EE33E4F22}.Release.ActiveCfg = Release|.NET
+		{4014C649-FFA5-4193-BDAA-963EE33E4F22}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
